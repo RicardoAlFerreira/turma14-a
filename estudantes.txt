@@ -4,3 +4,6 @@ gabriel
 fernando
 Vasco
 Flamengo
+Cesar
+isaac
+kristiano
